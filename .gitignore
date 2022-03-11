@@ -1,1 +1,4 @@
 secrets
+req/
+.env
+node_modules
